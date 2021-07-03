@@ -1,0 +1,20 @@
+{
+  "name": "car-wash-landing",
+  "version": "1.0.0",
+  "description": "Лендинг",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://a_kryuchenkov@bitbucket.org/a_kryuchenkov/car_wash_landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/a_kryuchenkov/car_wash_landing#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
